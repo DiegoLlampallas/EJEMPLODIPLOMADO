@@ -71,7 +71,7 @@ void loop() {
 
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoLlampallas/EJEMPLODIPLOMADO/blob/main/README.md)
+![](https://github.com/DiegoLlampallas/EJEMPLODIPLOMADO/blob/main/1.png?raw=true)
 
 
 
